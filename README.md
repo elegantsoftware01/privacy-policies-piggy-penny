@@ -1,4 +1,4 @@
-<h1
+<h3
 
 Privacy Policy for Piggy Penny
 
@@ -12,4 +12,4 @@ Privacy Policy for Piggy Penny
 Contact:
 jdrlstudios@gmail.com
 
-</h1>
+</h3>
